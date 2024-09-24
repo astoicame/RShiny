@@ -1,2 +1,2 @@
 # RShiny
-RShiny projects done so far
+RShiny application with multiple tabs which 1) summarize dataset statistics in text, table, and plot format; 2) when provided a normalized counts matrix, will filter results, run diagnostic, heatmap, and PCA analyses with adjustable parameters; 3) when provided DESeq differential expression results, will display results in table and plot format with adjustable parameters; and 4) when provided fgsea results, will display results in bargraph, table, and scatterplot formats. 
